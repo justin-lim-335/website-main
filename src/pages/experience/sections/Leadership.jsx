@@ -1,0 +1,83 @@
+import React from "react";
+
+export default function Leadership() {
+  return (
+    <div className="overflow-x-auto">
+      <h1 className="text-3xl font-bold mb-2 text-grayscale-200">Leadership Experience</h1>
+
+      <hr className="mb-4"></hr>
+
+      <div className="space-y-4">
+        <div>
+          <h3 className="text-lg font-bold">Legacy Dance Team</h3>
+          <p className="font-medium">Executive Director</p>
+          <p className="text-sm italic">2024 — 2025</p>
+          <ul className="list-disc list-inside">
+            <li className="mt-1">Managed a team of 20-30 dancers for practices, performances, workshops, and social events. </li>
+            <li className="mt-1">Coordinated weekly meetings with the leadership team to ensure that practices as well as the team are running smoothly; my goal was ensuring that everything was on track with the regular calendar.</li>
+            <li className="mt-1">Organized logistics for our yearly competition trip which included coordinating the housing, transportation, and scheduling for an entire weekend while sticking to a strict budget.</li>
+            <li className="mt-1">Integrated additional creative projects for the team such as our 3 Choreographers, 1 Song series which models Steezy Studio's series of the same name to provide more dynamic creative exploration outside of regular set-building.</li>
+            <li className="mt-1">Maintained and designed additional historical resources to track the overall legacy and activity of the dance team.</li>
+          </ul>
+        </div>
+
+        <hr></hr>
+
+        <div>
+          <h3 className="text-lg font-bold">Asian American Students' Association (AASA)</h3>
+          <p className="font-medium">Chair</p>
+          <p className="text-sm italic">2022-2024</p>
+          <ul className="list-disc list-inside">
+            <li className="mt-1">Assisting with the finances of our 20+ affiliated cultural student organizations by facilitating the processes of their annual budgets and co-sponsoring collaborative events between their groups</li>
+            <li className="mt-1">Acting as a representative voice for these respective groups when delivering statements on behalf of the organization</li>
+            <li className="mt-1">Conducting programming focused on social bonding, cultural connection, and building relationships with personal identity for AASA members, its affiliated organizations, and the general Asian American community.</li>
+            <li className="mt-1">Working with the Asian American Activities Center on campus as an advisor on their board as well as collaborated with the center on promoting cross-cultural exchange and understanding</li>
+          </ul>
+        </div>
+
+        <hr></hr>
+
+        <div>
+          <h3 className="text-lg font-bold">Listen to the Silence Conference</h3>
+          <p className="font-medium">Conference Chair</p>
+          <p className="text-sm italic">2023 — 2024</p>
+          <ul className="list-disc list-inside">
+            <li className="mt-1">Host the Listen to the Silence Conference (LTS), historically one of the biggest Asian American Issues Conferences held on the West Coast.</li>
+            <li className="mt-1">Coordinated with a team of 10 to handle the logistics (venue, schedule, volunteers) and the marketing/publicity for the event.</li>
+            <li className="mt-1">Liaised with various speakers, performers, and workshop facilitators to ensure a smooth event flow and high-quality content for attendees.</li>
+            <li className="mt-1">Managed a budget of $15,000+ to allocate funds for different aspects of the conference, including speaker fees, marketing materials, and venue costs.</li>
+            <li className="mt-1">Supervised a team of over 20 volunteers to assist with set-up, running, and clean-up for the entire conference.</li>
+          </ul>
+        </div>
+
+        <hr></hr>
+
+        <div>
+          <h3 className="text-lg font-bold">Stanford Cambodian Students Association (CamSA)</h3>
+          <p className="font-medium">Cambodia Rising Education Weekend (CREW) Coordinator</p>
+          <p className="text-sm italic">2021 — 2023</p>
+          <ul className="list-disc list-inside">
+            <li className="mt-1">Managing program outreach with local high schools by creating promotional material and coordinating student recruitment with their respective school counselors</li>
+            <li className="mt-1">Handling program logistics such as venue booking, arranging transportation for participants, coordinating catering, and ensuring compliance with university policies and procedures</li>
+            <li className="mt-1">Designing and facilitating our program curriculum through creation of our workshop presentations on college applications and financial aid, booking off-campus speakers, and organizing activities for students to get more familiar with the Stanford campus</li>
+            <li className="mt-1">Supervising and training volunteers for the program to ensure high-quality program delivery for our participants</li>
+          </ul>
+        </div>
+
+        <hr></hr>
+
+        <div>
+          <h3 className="text-lg font-bold">Stanford Vietnamese Students Association (SVSA)</h3>
+          <p className="font-medium">Public Service Chair</p>
+          <p className="text-sm italic">2021 — 2023</p>
+          <ul className="list-disc list-inside">
+            <li className="mt-1">Led the planning and execution in organizing a virtual conference for local Vietnamese High Schoolers</li>
+            <li className="mt-1">Planned the Fall College Application Workshop, serving approximately 20 local Vietnamese high school seniors as they navigate the college admissions process </li>
+            <li className="mt-1">Planned the Future Vietnamese Leaders' College Readiness Conference, serving approximately 20 younger Vietnamese high schoolers in an overnight experience exploring their cultural history, facets of identity, and secondary education opportunities</li>
+            <li className="mt-1">Supervising and training volunteers for the program to ensure high-quality program delivery for our participants</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  );
+}

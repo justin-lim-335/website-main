@@ -1,0 +1,65 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Sleek Garments Market Analysis Dashboard",
+      "short": "Interactive Garments Market Tool",
+      "description": "A React + Streamlit hybrid app visualizing market trends for a Ghanaian garments manufacturer, with tailored features and dynamic chart updates.",
+      "content": "This dashboard tool was created for my MS&E 108 Senior Project Class at Stanford University for the use of Ghanian-based company, Sleek Garments. This site analyzes data/metrics about the global garments market and computes an expansion score dataset as a resource for the client to help them determine the best countries to pursue on their goal to expand the range of their operations. The original code, instructions, and information on data sources for this tool are all located in the corresponding github repository accessible below. While the dashboard is usable with provided data, anybody can source their own data and upload their own csv file to be used. Those corresponding instructions are provided in the Google Drive Folder compiled for this project.",
+      "skills": ["React", "Python", "Streamlit", "Documentation", "Data Analytics", "Project Management", "Data Visualization", "R"],
+      "category": "Data Analysis",
+      "date": "2025-04",
+      "image": "../assets/project1.jpg",
+      "links": {
+        "Github Repo": "https://github.com/justin-lim-335/sleek-garments",
+        "Live Demo": "https://sg-expansiontool.streamlit.app/", 
+        "Google Drive": "https://drive.google.com/drive/folders/112ZNLNDn7zzSaMOKzF5XkdjDEIVFFe9m?usp=drive_link",
+        "Presentation": "https://msande.stanford.edu/research-impact/mse-student-research/mse-senior-projects/2025-senior-projects/tailoring-global"
+      }
+    },
+    {
+      "id": 2,
+      "title": "When Does It Get Good? Website",
+      "short": "TV Show voting aggregator site",
+      "description": "A Next.js web app aggregating user reviews about when a TV show 'gets good'. The site features a searchable database, sign-in functionality, and API integration.",
+      "content": "This web app was created as a fun side project to aggregate user reviews on when various TV shows 'get good' according to popular opinion so that I could pick up some skills in web development while working on something I was interested in. The site allows users to search for TV shows and view community-submitted votes about when a show reaches its peak quality. Users can also sign up for an account (although this is optional) to track their voting history and compare votes alongside one another. The app is built using Next.js for the frontend, with Tailwind CSS for styling and Framer Motion for smooth animations. It integrates with a backend API I created to fetch and store voting data that I have documentation for to make its services publicly accessible. This project showcases my skills in web development, database management, user authentication, and API integration. Its frontend is deployed on Vercel, while its backend API is hosted on Render, with the TMDB API acting as a supporting resource, and Supabase managing user authentication and data storage.",
+      "skills": ["Typescript", "APIs", "Databases", "Next.js", "Tailwind", "Framer Motion", "HTML/CSS", "SQL", "Full-Stack Development"],
+      "category": "Web Development",
+      "date": "2025-10",
+      "image": "../assets/project2.jpg",
+      "links": {
+        "Github Repo": "https://github.com/justin-lim-335/when-does-it-get-good",
+        "Live Website": "https://www.whendoesitgetgood.net"
+      }
+    },
+    {
+      "id": 3,
+      "title": "CA AAPI Voter Data Analysis",
+      "short": "Exploratory report of California AAPI voter data",
+      "description": "An analysis of a 2024 California AAPI voter insights survey, focusing on demographic trends, voting behavior, and political engagement within the AAPI community.",
+      "content": "As a part of my Research Fellowship with Asian Americans and Pacific Islanders for Civic Empowerment Education Fund (AAPI FORCE-EF), I conducted an exploratory data analysis of a 2024 California Asian American Voter Insights survey dataset and helped present it in conjunction with the organizations: AAPI Data and Asian American Futures. This analysis aimed to uncover key trends, voting behaviors, and levels of political engagement within the AAPI community in California divided by different demographic factors (age, education, gender, and nativity). I started by pooling over existing crosstabs of the cleaned data and took notes on any major findings. The insights that were pulled were all documented onto a template I designed for the organization that has been a foundation for clean research documentation that the organization can use for future data analysis/research work they conduct in the future. The final report made from these analyses included visualizations such as bar charts and pie charts (made from a combination of Canva and Tableau) to effectively communicate the findings. Key insights from the report highlighted significant factors influencing voter turnout and preferences among different AAPI subgroups. The final report was presented to AAPI FORCE-EF stakeholders to inform their outreach strategies for the 2024 election cycle.",
+      "skills": ["Data Analytics", "Excel", "Tableau", "Canva", "Data Visualization"],
+      "category": "Data Analysis",
+      "date": "2024-08",
+      "image": "../assets/project3.jpg",
+      "links": {
+        "Report Description": "https://www.aapiforce-ef.org/2024-california-asian-american-voter-insights",
+        "Presentation of Report": "https://cdn.prod.website-files.com/64f22582b11ec2a7fb23de90/66db40922a701f9b87034581_2024%20California%20Asian%20American%20Voter%20Insights%20%E2%80%94%20Report%20(1)%20(1).pdf"
+      }
+    }, 
+    {
+      "id": 4,
+      "title": "AP Calculus AB Course",
+      "short": "Custom-made Math Tutoring Curriculum",
+      "description": "A course I created to tutor my fellow high school students in AP Calculus AB, featuring structured lesson plans, practice problems, and exam strategies.",
+      "content": "During my time in high school, I developed a comprehensive AP Calculus AB course to tutor my peers who were preparing for the AP exam. Recognizing the challenges many students faced with the subject, I designed a curriculum that broke down complex concepts into manageable lessons. The course included detailed lesson plans, a variety of practice problems, and strategies for tackling the AP exam effectively. I utilized resources such as textbooks, online materials, and past exam questions to ensure a well-rounded learning experience. The curriculum was structured to build foundational knowledge before progressing to more advanced topics, allowing students to gain confidence in their abilities. Feedback from students who took the course indicated significant improvements in their understanding of calculus concepts and their performance on the AP exam. This project not only enhanced my teaching skills but also reinforced my own understanding of calculus through the process of creating educational content.",
+      "skills": ["Powerpoint", "Teaching", "Calculus", "Curriculum Design", "Tutoring", "Mathematics"],
+      "category": "Misc",
+      "date": "2020-08",
+      "image": "../assets/project4.jpg",
+      "links": {
+        "Course Materials": "https://drive.google.com/drive/folders/1GBy0TNNAxHuZ54bR2o_oXFJJBduRsEK1?usp=sharing"
+      }
+    }
+  ]
+}
