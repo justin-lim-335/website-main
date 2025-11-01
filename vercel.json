@@ -12,8 +12,6 @@
     }
   ], 
   "rewrites": [
-    { "source": "/resume.pdf", "destination": "/assets/resume.pdf" },
-    { "source": "/dance_cv.pdf", "destination": "/assets/dance_cv.pdf" }, 
     { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
