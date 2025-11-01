@@ -1,13 +1,15 @@
 {
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist", 
-  "framework": "vite", 
+  "builds": [
+    {
+      "src": "vite.config.js",
+      "use": "@vercel/static-build",
+      "config": { "distDir": "dist" }
+    }
+  ],
   "routes": [
-    { "src": "/(.*)", "dest": "/" }
-  ], 
-  "rewrites": [
-    { "source": "/resume.pdf", "destination": "/assets/resume.pdf" },
-    { "source": "/dance_cv.pdf", "destination": "/assets/dance_cv.pdf" }, 
-    { "source": "/(.*)", "destination": "/"  }
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
   ]
 }
