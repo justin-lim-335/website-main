@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview", 
+    "postinstall": "chmod +x ./node_modules/.bin/vite"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.19",
@@ -23,7 +24,6 @@
     "@types/node": "^24.5.2",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "@vercel/node": "^2.2.0",
     "@vitejs/plugin-react": "^4.0.3",
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.24",
