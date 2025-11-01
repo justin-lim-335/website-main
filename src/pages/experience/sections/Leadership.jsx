@@ -57,7 +57,7 @@ export default function Leadership() {
           <p className="font-medium">Cambodia Rising Education Weekend (CREW) Coordinator</p>
           <p className="text-sm italic">2021 — 2023</p>
           <ul className="list-disc list-inside">
-            <li className="mt-1">Managing program outreach with local high schools by creating promotional material and coordinating student recruitment with their respective school counselors</li>
+            <li className="mt-1">Managed program outreach with local high schools by creating promotional material and coordinating student recruitment with their respective school counselors</li>
             <li className="mt-1">Handling program logistics such as venue booking, arranging transportation for participants, coordinating catering, and ensuring compliance with university policies and procedures</li>
             <li className="mt-1">Designing and facilitating our program curriculum through creation of our workshop presentations on college applications and financial aid, booking off-campus speakers, and organizing activities for students to get more familiar with the Stanford campus</li>
             <li className="mt-1">Supervising and training volunteers for the program to ensure high-quality program delivery for our participants</li>
