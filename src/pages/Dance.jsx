@@ -35,7 +35,7 @@ export default function Dance() {
       <p className="text-grayscale-50 mb-6">
         This page contains a comprehensive breakdown of all of the projects I have been involved with as a dancer, cover leader, or choreographer.
         Click the tabs below to explore videos and highlights from each group. For a CV file of the information below, please{" "}
-        <a href="../dance_cv.pdf" className="underline hover:opacity-80" target="_blank" rel="noopener noreferrer">
+        <a href="../public/dance_cv.pdf" className="underline hover:opacity-80" target="_blank" rel="noopener noreferrer">
           click here
         </a>
         .
