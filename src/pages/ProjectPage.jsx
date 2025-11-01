@@ -13,7 +13,7 @@ export default function ProjectDetail() {
   if (!project) {
     return (
       <div className="max-w-4xl mx-auto p-10 text-center">
-        <h2 className="text-2xl mb-4">Project not found</h2>
+        <h2 className="text-2xl mb-4">Project Not Found</h2>
         <Link to="/projects" className="underline text-blue-400">
           ← Back to Projects
         </Link>
