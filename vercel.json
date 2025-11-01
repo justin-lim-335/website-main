@@ -4,5 +4,10 @@
   "framework": "vite", 
   "routes": [
     { "src": "/(.*)", "dest": "/" }
+  ], 
+  "rewrites": [
+    { "source": "/resume.pdf", "destination": "/assets/resume.pdf" },
+    { "source": "/dance_cv.pdf", "destination": "/assets/dance_cv.pdf" }, 
+    { "source": "/(.*)", "destination": "/"  }
   ]
 }
