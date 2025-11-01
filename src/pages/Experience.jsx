@@ -43,7 +43,7 @@ export default function Experience() {
         <p className="text-grayscale-50 mb-4">
           Below is a structured breakdown of my academic, professional, leadership, volunteering
           and award/certification history. For a downloadable and concise version of my most recent resume, please{" "}
-          <a href="../assets/resume.pdf" className="underline hover:opacity-80">
+          <a href="../resume.pdf" className="underline hover:opacity-80" target="_blank" rel="noopener noreferrer">
             click here
           </a>
           .
