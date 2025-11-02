@@ -39,7 +39,7 @@ export default function Academic() {
               <li>Solid Mechanics</li>
               <li>Matrix Methods</li>
               <li>Probability</li>
-              <li>R</li>
+              <li>Programming in R</li>
               <li>Building AI Organizations</li>
               <li>Statistics for Health Sciences</li>
               <li>Accounting for Entrepreneurs</li>

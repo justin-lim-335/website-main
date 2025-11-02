@@ -28,10 +28,10 @@ export default function Leadership() {
           <p className="font-medium">Chair</p>
           <p className="text-sm italic">2022-2024</p>
           <ul className="list-disc list-inside">
-            <li className="mt-1">Assisting with the finances of our 20+ affiliated cultural student organizations by facilitating the processes of their annual budgets and co-sponsoring collaborative events between their groups</li>
-            <li className="mt-1">Acting as a representative voice for these respective groups when delivering statements on behalf of the organization</li>
-            <li className="mt-1">Conducting programming focused on social bonding, cultural connection, and building relationships with personal identity for AASA members, its affiliated organizations, and the general Asian American community.</li>
-            <li className="mt-1">Working with the Asian American Activities Center on campus as an advisor on their board as well as collaborated with the center on promoting cross-cultural exchange and understanding</li>
+            <li className="mt-1">Assisted with the finances of our 20+ affiliated cultural student organizations by facilitating the processes of their annual budgets and co-sponsoring collaborative events between their groups</li>
+            <li className="mt-1">Acted as a representative voice for these respective groups when delivering statements on behalf of the organization</li>
+            <li className="mt-1">Conducted programming focused on social bonding, cultural connection, and building relationships with personal identity for AASA members, its affiliated organizations, and the general Asian American community.</li>
+            <li className="mt-1">Worked with the Asian American Activities Center on campus as an advisor on their board as well as collaborated with the center on promoting cross-cultural exchange and understanding</li>
           </ul>
         </div>
 
@@ -42,7 +42,7 @@ export default function Leadership() {
           <p className="font-medium">Conference Chair</p>
           <p className="text-sm italic">2023 — 2024</p>
           <ul className="list-disc list-inside">
-            <li className="mt-1">Host the Listen to the Silence Conference (LTS), historically one of the biggest Asian American Issues Conferences held on the West Coast.</li>
+            <li className="mt-1">Hosted the Listen to the Silence Conference (LTS), historically one of the biggest Asian American Issues Conferences held on the West Coast.</li>
             <li className="mt-1">Coordinated with a team of 10 to handle the logistics (venue, schedule, volunteers) and the marketing/publicity for the event.</li>
             <li className="mt-1">Liaised with various speakers, performers, and workshop facilitators to ensure a smooth event flow and high-quality content for attendees.</li>
             <li className="mt-1">Managed a budget of $15,000+ to allocate funds for different aspects of the conference, including speaker fees, marketing materials, and venue costs.</li>
@@ -58,9 +58,9 @@ export default function Leadership() {
           <p className="text-sm italic">2021 — 2023</p>
           <ul className="list-disc list-inside">
             <li className="mt-1">Managed program outreach with local high schools by creating promotional material and coordinating student recruitment with their respective school counselors</li>
-            <li className="mt-1">Handling program logistics such as venue booking, arranging transportation for participants, coordinating catering, and ensuring compliance with university policies and procedures</li>
-            <li className="mt-1">Designing and facilitating our program curriculum through creation of our workshop presentations on college applications and financial aid, booking off-campus speakers, and organizing activities for students to get more familiar with the Stanford campus</li>
-            <li className="mt-1">Supervising and training volunteers for the program to ensure high-quality program delivery for our participants</li>
+            <li className="mt-1">Handled program logistics such as venue booking, arranging transportation for participants, coordinating catering, and ensuring compliance with university policies and procedures</li>
+            <li className="mt-1">Designed and facilitated our program curriculum through creation of our workshop presentations on college applications and financial aid, booking off-campus speakers, and organizing activities for students to get more familiar with the Stanford campus</li>
+            <li className="mt-1">Supervised and trained volunteers for the program to ensure high-quality program delivery for our participants</li>
           </ul>
         </div>
 
@@ -74,7 +74,7 @@ export default function Leadership() {
             <li className="mt-1">Led the planning and execution in organizing a virtual conference for local Vietnamese High Schoolers</li>
             <li className="mt-1">Planned the Fall College Application Workshop, serving approximately 20 local Vietnamese high school seniors as they navigate the college admissions process </li>
             <li className="mt-1">Planned the Future Vietnamese Leaders' College Readiness Conference, serving approximately 20 younger Vietnamese high schoolers in an overnight experience exploring their cultural history, facets of identity, and secondary education opportunities</li>
-            <li className="mt-1">Supervising and training volunteers for the program to ensure high-quality program delivery for our participants</li>
+            <li className="mt-1">Supervised and trained volunteers for the program to ensure high-quality program delivery for our participants</li>
           </ul>
         </div>
       </div>

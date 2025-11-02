@@ -60,6 +60,20 @@
       "links": {
         "Course Materials": "https://drive.google.com/drive/folders/1GBy0TNNAxHuZ54bR2o_oXFJJBduRsEK1?usp=sharing"
       }
+    }, 
+    {
+      "id": 5,
+      "title": "Profit Estimation Dashboard",
+      "short": "Custom-made Profit Calculator for Small Businesses",
+      "description": "Dashboard tool created for a trading card store to estimate profits based on tournaments they would be hosting throughout the year.",
+      "content": "This tool was created for a local trading card store to help them estimate their profits based on the layout of the tournaments they would be hosting. This dashboard constructed in Google Sheets allows the user to input different variables about a tournament they would be hosting such as number of participants, entry fees, prize amounts, and materials costs associated with hosting the event. Based on these inputs, the dashboard would then calculate the estimated profit for a given tournament arrangement. This tool was built to help the store owner make informed decisions about how to structure their tournaments in a way that would maximize their profits while still providing an enjoyable experience for participants. ",
+      "skills": ["Google Sheets", "Data Analytics", "Dashboard Design", "Profit Estimation", "Financial Planning"],
+      "category": "Data Analysis",
+      "date": "2025-10",
+      "image": "../assets/project5.jpg",
+      "links": {
+        "Dashboard Link": "https://docs.google.com/spreadsheets/d/1gz0cOdlsLi78OeG8ko4fEDUqA91WF2XqybiBBUeD4us/edit?usp=sharing"
+      }
     }
   ]
 }
