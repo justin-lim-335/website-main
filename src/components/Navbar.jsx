@@ -33,7 +33,7 @@ export default function Navbar() {
   }, []);
 
   return (
-    <nav className="bg-grayscale-700 shadow-md">
+    <nav className="bg-grayscale-500 shadow-md">
       <div className="container mx-auto px-4 py-3 flex items-center justify-between">
         {/* name (always visible, links to home) */}
         <Link to="/" className="text-lg font-semibold text-grayscale-50">
@@ -50,7 +50,7 @@ export default function Navbar() {
                 className={({ isActive }) =>
                   isActive
                     ? "text-grayscale-50 font-bold border-b-2 border-grayscale-50 pb-1"
-                    : "text-grayscale-300 hover:text-grayscale-300"
+                    : "text-grayscale-100 hover:text-grayscale-200"
                 }
               >
                 {label}

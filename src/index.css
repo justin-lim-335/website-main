@@ -4,7 +4,7 @@
 
 /* Optional custom styles */
 body {
-  @apply font-sans text-grayscale-50 bg-grayscale-800
+  @apply font-sans text-grayscale-50 bg-grayscale-700
 }
 h1, h2, h3, h4 {
   @apply font-sans font-bold text-grayscale-200;

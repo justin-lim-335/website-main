@@ -82,12 +82,12 @@ export default function Home() {
             <p className="font-bold">
               LinkedIn:{" "}
               <a
-                href="https://www.linkedin.com/in/justin-lim-9b7245124/"
+                href="https://www.linkedin.com/in/jjlimm/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="underline hover:opacity-80"
               >
-                linkedin.com/in/justin-lim-9b7245124
+                linkedin.com/in/jjlimm
               </a>
             </p>
             <p className="font-bold">

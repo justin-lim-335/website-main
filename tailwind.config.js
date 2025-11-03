@@ -30,6 +30,13 @@ module.exports = {
           blue: "#007AFF",
           indigo: "#5856D6",
           violet: "#AF52DE"
+        }, 
+        lavender: {
+          100: "#8f8d90", 
+          200: "#bab8bb", 
+          300:" #ac8eb8",
+          400: "#7c608f",
+          500: "#73517e"
         }
       }
     },
